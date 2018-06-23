@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <div>
+    <h1 id="myResult"></h1>
+
+  </div>
+  <script>
+
+    /* Write an internal javascript function named divisibleByFive that decides whether a random number is divisible by 5. 
+    /* Inside the function create a variable, randomNum, that is a random number between 0 and 99 */
+    /*Output the result to an h1 tag in your html*/
+    /*Call the function  after you have created it */
+    function divisibleByFive() {
+      var result = ''
+      var randomNum = Math.floor(Math.random() * 100)
+      var answer1 = randomNum + " is divisible by 5"
+      var answer2 = randomNum + " is NOT divisible by 5"
+
+      randomNum % 5 == 0 ? result = answer1 : result = answer2
+      // console.log(randomNum)
+      // console.log(result)
+      document.getElementById('myResult').innerHTML = result
+    }
+
+    divisibleByFive();
+  </script>
+</body>
+
+</html>

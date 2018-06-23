@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Chain Array Functions</title>
+</head>
+
+<body>
+  <script>
+    data = [{
+      wine: 'red',
+      year: '1022',
+      region: 'Bordeaux',
+      numBottles: 123
+    }, {
+      wine: 'red',
+      year: '1972',
+      region: 'Beaujolais',
+      numBottles: 29
+    }, {
+      wine: 'white',
+      year: '2022',
+      region: 'Bourgogne',
+      numBottles: 224
+    }, {
+      wine: 'white',
+      year: '2100',
+      region: 'Merlot',
+      numBottles: 122
+    }, {
+      wine: 'white',
+      year: '2100',
+      region: 'Merlot',
+      numBottles: 22
+    }, {
+      wine: 'red',
+      year: '2100',
+      region: 'Merlot',
+      numBottles: 54
+    }]
+
+    let winer = data.filter(wine => {
+      return wine.wine == 'red';
+    }).map(wine => {
+      return wine.numBottles + 500;
+    }).reduce((curr, wine) => {
+      return curr + wine
+    })
+
+
+    console.log(winer)
+
+  </script>
+</body>
+
+</html>

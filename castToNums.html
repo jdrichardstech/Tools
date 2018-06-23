@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <div>
+    <h1 id="output1"></h1>
+    <h1 id="output2"></h1>
+  </div>
+  <script>
+    // Create two global string variables that hold integer values inside them. ****they must however be strings not numbers
+    // Inside function convertToNumbers that changes those strings into numbers, convert the strings into Numbers
+
+
+    //erase these two variables
+    var str1 = '12'
+    var str2 = '23'
+    function convertToNumbers() {
+
+      //erase the code below up to console.log
+      str1 = Number(str1);
+      str2 = Number(str2)
+
+
+      var output1 = document.querySelector('#output1');
+      var output2 = document.querySelector('#output2');
+
+      (typeof (str1) === "number") ? output1.innerHTML = 'str1 is now a number' : output1.innerHTML = 'str1 is not a number';
+      (typeof (str2) === "number") ? output2.innerHTML = 'str2 is now a number' : output2.innerHTML = 'str2 is not a number';
+    }
+
+    convertToNumbers();
+
+  </script>
+</body>
+
+</html>

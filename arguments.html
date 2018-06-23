@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <div>
+    <h1 id="output"></h1>
+  </div>
+  <script>
+    // Create two global variables that are positive integers
+    // Create a function multiplyVariables that takes 2 arguments(parameters). 
+    // multiply the two numbers together and output it to the DOM in 
+    // The arguments cannot have the same name as your global variables
+    // call multiplyVariables using your global variables as arguments(parameters)
+    // Calculate the product of the two variables and show the result in the h1 tag with an ID of output
+    // you can change the values of your variables manually to output a different product
+
+    var myNum1 = 12
+    var myNum2 = 34
+
+    function multiplyVariables(num1, num2) {
+      document.getElementById('output').innerHTML = num1 * num2;
+    }
+
+    multiplyVariables(myNum1, myNum2);
+  </script>
+</body>
+
+</html>

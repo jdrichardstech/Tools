@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    button {
+      width: 100px;
+      height: 50px;
+      border-radius: 5px;
+      background-color: aqua;
+    }
+
+    input {
+      margin-right: 20px;
+      width: 75px;
+      height: 45px;
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    #output {
+      font-size: 2rem;
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h4>Enter Your Numbers Below:</h4>
+  <div>
+    <input type="number" id="inputBox1">
+    <input type="number" id="inputBox2">
+    <br />
+    <br />
+    <button type="button" onclick="add()">Add</button>
+    <button type="button" onclick="subtract()">Subtract</button>
+    <button type="button" onclick="divide()">Divide</button>
+    <button type="button" onclick="multiply()">Multiply</button>
+    <button type="button" onclick="exponent()">Exponent</button>
+    <button type="button" onclick="mdoulus()">Modulus</button>
+
+  </div>
+  <div id="output">
+    Answer: 0
+  </div>
+  <button type="reset" id="clear" onclick="clearValues()">Clear</button>
+
+  <script>
+    // HTML:        Create 2 inputs that take numbers only. Create 6 Buttons. 1 for: Add, Subtract,
+    //              Multiply, Divide, Exponent, Modulus. 
+    //              Create a separate div with an ID for your output. 
+    //              Create a button that will reset all values.
+    //              Each button should have an event handler that calls a function which coincides with the text for the button. (Add, Subtract, Reset, etc.....)
+
+    // Javascript:   Create needed global variables.(Hint:  You will need to grab the input elements from the HTML . You will also need variables for input values and your result.)
+    //               Create a function convertNums that turns each input box value into a number
+    //               Create a function named accordingly to compute each button correctly (add, subtract, multiply....) 
+    //               Use the function createNums in each function.
+    //               Create a function to reset all the variables and inputs to their original values.
+    // OR:
+    // Javascript:  Create functions needed to calculate nubmers based on the button pushed.
+    //              Create a function to reset all values
+    //              Ouptut your result to the DOM
+    //              
+    var myNum1;
+    var myNum2;
+    var result = 0;
+    var inputBox1 = document.getElementById('inputBox1');
+    var inputBox2 = document.getElementById('inputBox2');
+
+    function convertNums() {
+      myNum1 = Number(inputBox1.value);
+      myNum2 = Number(inputBox2.value);
+      return;
+    }
+
+    function add() {
+      convertNums();
+      result = myNum1 + myNum2;
+      document.getElementById('output').innerHTML = result;
+      return;
+    }
+
+    function subtract() {
+      convertNums();
+      result = myNum1 - myNum2;
+      document.getElementById('output').innerHTML = result;
+      return;
+    }
+
+    function clearValues() {
+      myNum1 = 0;
+      myNum2 = 0;
+      result = 0;
+      document.getElementById('inputBox1').value = '';
+      document.getElementById('inputBox2').value = '';
+      document.getElementById('output').innerHTML = 'Answer: 0'
+      return;
+    }

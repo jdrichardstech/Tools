@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <div>
+    <h1 id="output"></h1>
+  </div>
+  <script>
+    //    Create a function globalLocalStrings
+    //    Using var, Create a global string variable and a local string variable
+    //    Give each your own values
+    //    Concatenate the two strings in a local message variable
+    //    Output the message variable to the DOM
+
+
+    var str1 = "To err is human, ";
+    function globalLocalStrings() {
+      var str2 = "to forgive, devine";
+      var message = str1 + str2;
+
+      document.getElementById('output').innerHTML = str1 + str2;
+    }
+    globalLocalStrings();
+
+  </script>
+</body>
+
+</html>
