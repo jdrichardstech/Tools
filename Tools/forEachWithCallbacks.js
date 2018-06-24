@@ -3,7 +3,7 @@
  * forEachWithCallbacks.js
  *
  * forEach function takes an array and a callback. I takes every element in the array and passes it as a parameter in the callback.
- * forEach always returns undefined even if you try to store it in an array
+ * forEach does not creeate a new array and it always returns undefined even if you try to store it in an array
  *
  */
 
