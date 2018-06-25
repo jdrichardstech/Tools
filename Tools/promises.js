@@ -13,4 +13,4 @@ p1.then(function(arr) {
   arr.map((element, idx) =>
     console.log("here is value" + idx + ": " + element)
   );
-});
+}).catch();

@@ -1,6 +1,6 @@
 // closure is a function that makes use of variables that were defined in outer functons that have been returned
 
-//closure can be useed to create private variables
+//closure can be used to create private variables
 
 function outer() {
   let str = "This is a closure";
