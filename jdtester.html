@@ -9,15 +9,32 @@
 </head>
 
 <body>
-  <div id="myDiv"></div>
+  <div id="myDiv">
+    <h1 id="headerOne"></h1>
+    <input type="text" id="fruit">
+    <button type="button" onclick=getFruit()>Choose Fruit</button>
+  </div>
   <script>
-    var loopy = document.getElementById('myDiv');
+    var expr = 'fruit';
+    function getFruit() {
+      console.log('click')
+      expr = document.querySelector('#fruit').value.toLowerCase();
+      switch (expr) {
 
-    for (var i = 0; i < 10; i++) {
-      // console.log(i)
-      // loopy.innerHTML += `${i}<br />`
-      alert(i)
+        case 'oranges':
+          document.querySelector('#headerOne').innerHTML = 'Oranges are $0.59 a pound.';
+          break;
+        case 'mangoes':
+        case 'papayas':
+          console.log('papayas')
+          document.querySelector('#headerOne').innerHTML = 'Mangoes and papayas are $2.79 a pound.';
+          // expected output: "Mangoes and papayas are $2.79 a pound."
+          break;
+        default:
+          document.querySelector('#headerOne').innerHTML = 'Please choose an appropriate ' + expr;
+      }
     }
+
   </script>
 </body>
 
