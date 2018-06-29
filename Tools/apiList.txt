@@ -2,7 +2,7 @@ Random dog images : https://dog.ceo/dog-api/
 
 Random quotes: https://api.github.com/zen
 
-Bitcoint Current price API: https://api.coindesk.com/v1/bpi/currentprice.json
+Bitcoing Current price API: https://api.coindesk.com/v1/bpi/currentprice.json
 
 Ramdom User API: https://randomuser.me.api
 
@@ -11,3 +11,7 @@ Random cats: http://aws.random.cat/meow
 Random: questions and answers: https://opentdb.com/api.php?amount=1
 
 JSON Placeholders: https://jsonplaceholder.typicode.com/
+
+Lorem Picsum https://picsum.photos/
+
+Bacon Ipsum: https://baconipsum.com/json-api/
