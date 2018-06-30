@@ -1,0 +1,41 @@
+The V8 Callstack
+
+
+-Call Stack is part of V8.
+-Call Stack is a Data Structure that keeps track of program execution insided V8
+-Keeps track of functions that are executed and statements that are fired
+-It is LIFO Last In First Out
+
+
+Callback Queue is FIFO First in first out
+
+Event Loop Checks the Callback Queue and Call Stack. 
+When the Call Stack is empty it moves top function to the Callstack
+
+
+You never directly interact with these things so it can be a bit confusing.
+
+
+--------------  
+
+
+Execution:
+
+1. Node runs the Main functions...that is the Wrapper function that runs Node
+
+
+
+
+
+console.log('1. First Console.log Function');
+
+setTimeout(()=>{
+  console.log('2. First Written Callback Wait 2 seconds');
+},2000)
+
+
+setTimeout(()=>{
+console.log('3. Second Written Callback Wait 0 seconds')
+})
+
+console.log('4. Second Console.log function';)

@@ -1,0 +1,2014 @@
+{
+  "resultCount": 50,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 207246267,
+      "trackId": 207246319,
+      "artistName": "Fantasia",
+      "collectionName": "Fantasia",
+      "trackName": "When I See U",
+      "collectionCensoredName": "Fantasia",
+      "trackCensoredName": "When I See U",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/when-i-see-u/207246267?i=207246319&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/when-i-see-u/207246267?i=207246319&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/74/4f/7e/mzm.zfpbhcvt.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f0/39/04/f039046b-77be-7ef6-9a9e-0887acbf62ad/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f0/39/04/f039046b-77be-7ef6-9a9e-0887acbf62ad/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f0/39/04/f039046b-77be-7ef6-9a9e-0887acbf62ad/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2006-12-12T08:00:00Z",
+      "collectionExplicitness": "cleaned",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 2,
+      "trackTimeMillis": 217347,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765409,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Truth Is",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Truth Is",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/truth-is/275765355?i=275765409&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/truth-is/275765355?i=275765409&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/29/7f/37/mzm.tmpjgiuo.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 3,
+      "trackTimeMillis": 236747,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765402,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Free Yourself (feat. Missy Elliott)",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Free Yourself (feat. Missy Elliott)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/free-yourself-feat-missy-elliott/275765355?i=275765402&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/free-yourself-feat-missy-elliott/275765355?i=275765402&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1f/fe/c8/mzm.eflsedlt.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 2,
+      "trackTimeMillis": 257427,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685517,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Lose to Win",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Lose to Win",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/lose-to-win/615685399?i=615685517&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/lose-to-win/615685399?i=615685517&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/db/98/95/db989500-884f-12f4-3e0d-fdd987474d7f/mzaf_402529034208015572.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-01-08T08:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 11,
+      "trackTimeMillis": 252166,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739771,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "Sleeping With the One I Love",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "Sleeping With the One I Love",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/sleeping-with-the-one-i-love/1105739288?i=1105739771&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/sleeping-with-the-one-i-love/1105739288?i=1105739771&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/c9/54/f3/c954f381-f885-cda3-f65f-18ec7dc640d9/mzaf_1377612593421523973.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 5,
+      "trackTimeMillis": 303492,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685422,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Without Me (feat. Kelly Rowland & Missy Elliott)",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Without Me (feat. Kelly Rowland & Missy Elliott)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/without-me-feat-kelly-rowland-missy-elliott/615685399?i=615685422&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/without-me-feat-kelly-rowland-missy-elliott/615685399?i=615685422&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/d6/6b/76/d66b76f9-f028-d1f1-96df-358039f188cc/mzaf_2069411980479519116.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-02-04T08:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 5,
+      "trackTimeMillis": 270787,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631393,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Bittersweet",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Bittersweet",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/bittersweet/382631365?i=382631393&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/bittersweet/382631365?i=382631393&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/98/b4/5e/mzm.bvlhqbpa.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-05-11T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 2,
+      "trackTimeMillis": 236622,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739605,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "No Time for It",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "No Time for It",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/no-time-for-it/1105739288?i=1105739605&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/no-time-for-it/1105739288?i=1105739605&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/b9/ad/87/b9ad8780-027e-6695-f99b-85954ec85a0e/mzaf_5532704933274540104.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 2,
+      "trackTimeMillis": 205791,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631372,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "I'm Doin' Me",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "I'm Doin' Me",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/im-doin-me/382631365?i=382631372&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/im-doin-me/382631365?i=382631372&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1b/42/c4/mzm.ijhwdpxn.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 1,
+      "trackTimeMillis": 236060,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631411,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Collard Greens & Cornbread",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Collard Greens & Cornbread",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/collard-greens-cornbread/382631365?i=382631411&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/collard-greens-cornbread/382631365?i=382631411&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a2/a9/23/mzm.aqjcrats.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 5,
+      "trackTimeMillis": 231732,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765624,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "I Believe",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "I Believe",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/i-believe/275765355?i=275765624&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/i-believe/275765355?i=275765624&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f9/f5/e5/mzm.fmpktuls.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 13,
+      "trackTimeMillis": 302027,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765393,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Ain't Gon' Beg You",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Ain't Gon' Beg You",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/aint-gon-beg-you/275765355?i=275765393&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/aint-gon-beg-you/275765355?i=275765393&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/30/40/1d/mzm.cxifzcpn.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 1,
+      "trackTimeMillis": 254240,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631490,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Even Angels",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Even Angels",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/even-angels/382631365?i=382631490&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/even-angels/382631365?i=382631490&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b7/62/d2/mzm.htnzhsil.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 11,
+      "trackTimeMillis": 232616,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631424,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Move On Me",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Move On Me",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/move-on-me/382631365?i=382631424&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/move-on-me/382631365?i=382631424&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/dc/7b/d0/mzm.pnjgxyms.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-07-27T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 7,
+      "trackTimeMillis": 248172,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739779,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "I Made It (feat. Tye Tribbett)",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "I Made It (feat. Tye Tribbett)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/i-made-it-feat-tye-tribbett/1105739288?i=1105739779&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/i-made-it-feat-tye-tribbett/1105739288?i=1105739779&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/0f/91/77/0f91776a-58a3-a865-66ea-8327174f5e1d/mzaf_4104293525595448474.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 11,
+      "trackTimeMillis": 340252,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685510,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Side Effects of You",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Side Effects of You",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/side-effects-of-you/615685399?i=615685510&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/side-effects-of-you/615685399?i=615685510&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ce/42/52/ce425284-5ced-aa86-4180-f88f4032e3a7/mzaf_7779956357057355361.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 6,
+      "trackTimeMillis": 205029,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765436,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Got Me Waiting",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Got Me Waiting",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/got-me-waiting/275765355?i=275765436&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/got-me-waiting/275765355?i=275765436&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a3/8f/c3/mzm.oysdfspa.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 7,
+      "trackTimeMillis": 230680,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631442,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Falling In Love Tonight",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Falling In Love Tonight",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/falling-in-love-tonight/382631365?i=382631442&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/falling-in-love-tonight/382631365?i=382631442&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/40/fc/88/mzm.powjagea.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 10,
+      "trackTimeMillis": 238981,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685514,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Change Your Mind",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Change Your Mind",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/change-your-mind/615685399?i=615685514&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/change-your-mind/615685399?i=615685514&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/bb/63/47/bb6347a9-f96b-408e-4c62-57ebd29f6332/mzaf_3366867563849488768.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 9,
+      "trackTimeMillis": 207402,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685520,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "In Deep",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "In Deep",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/in-deep/615685399?i=615685520&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/in-deep/615685399?i=615685520&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/d6/3a/7e/d63a7e56-eb86-5729-bd4f-e013e6441ca9/mzaf_1353821146716582086.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 13,
+      "trackTimeMillis": 213337,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 353075822,
+      "trackId": 353075824,
+      "artistName": "Fantasia",
+      "collectionName": "Even Angels - Single",
+      "trackName": "Even Angels",
+      "collectionCensoredName": "Even Angels - Single",
+      "trackCensoredName": "Even Angels",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/even-angels/353075822?i=353075824&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/even-angels/353075822?i=353075824&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a9/ea/6c/mzm.vjtuzkyf.aac.p.m4a",
+      "artworkUrl30":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/20/8d/72/208d72db-5383-3f41-bd27-06c7e3455d77/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/20/8d/72/208d72db-5383-3f41-bd27-06c7e3455d77/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/20/8d/72/208d72db-5383-3f41-bd27-06c7e3455d77/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 231169,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 370276901,
+      "trackId": 370277109,
+      "artistName": "Fantasia",
+      "collectionName": "Bittersweet - Single",
+      "trackName": "Bittersweet",
+      "collectionCensoredName": "Bittersweet - Single",
+      "trackCensoredName": "Bittersweet",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/bittersweet/370276901?i=370277109&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/bittersweet/370276901?i=370277109&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/26/9c/c9/mzm.nsyukfqh.aac.p.m4a",
+      "artworkUrl30":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/bb/7c/68/bb7c6883-c9e6-dfae-58bb-516b020b0e5d/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/bb/7c/68/bb7c6883-c9e6-dfae-58bb-516b020b0e5d/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/bb/7c/68/bb7c6883-c9e6-dfae-58bb-516b020b0e5d/source/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-05-10T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 242545,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631510,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "I'm Here",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "I'm Here (From \"The Color Purple\" Musical)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/im-here-from-the-color-purple-musical/382631365?i=382631510&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/im-here-from-the-color-purple-musical/382631365?i=382631510&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ea/fd/71/mzm.wwdtvvzr.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 12,
+      "trackTimeMillis": 328873,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685516,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Lighthouse",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Lighthouse",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/lighthouse/615685399?i=615685516&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/lighthouse/615685399?i=615685516&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ec/5c/99/ec5c99db-d857-cf2b-b166-ccec3f8f48b9/mzaf_1357036002820880394.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 10,
+      "trackTimeMillis": 256573,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685518,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "End of Me",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "End of Me",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/end-of-me/615685399?i=615685518&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/end-of-me/615685399?i=615685518&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/61/1e/d3/611ed3ec-a20d-0e59-9a98-3a4dceae3949/mzaf_929840426055962517.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 12,
+      "trackTimeMillis": 245126,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685419,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "If I Was a Bird",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "If I Was a Bird",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/if-i-was-a-bird/615685399?i=615685419&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/if-i-was-a-bird/615685399?i=615685419&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/99/18/a0/9918a073-ec36-ecad-ad71-5ead60a48226/mzaf_1349740347350919719.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 3,
+      "trackTimeMillis": 167672,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631397,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Man of the House",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Man of the House",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/man-of-the-house/382631365?i=382631397&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/man-of-the-house/382631365?i=382631397&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e1/7a/d1/mzm.ktiwloyh.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 3,
+      "trackTimeMillis": 200259,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685415,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Ain't All Bad",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Ain't All Bad",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/aint-all-bad/615685399?i=615685415&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/aint-all-bad/615685399?i=615685415&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/38/a4/61/38a461af-a043-74fb-b277-7a7da5d3a13f/mzaf_6470446043412587204.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 2,
+      "trackTimeMillis": 237082,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685511,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Get It Right",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Get It Right",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/get-it-right/615685399?i=615685511&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/get-it-right/615685399?i=615685511&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/62/27/75/62277570-89a2-fa58-f35f-4b3703f184fb/mzaf_7238339460475550898.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 7,
+      "trackTimeMillis": 225723,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765431,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Baby Mama",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Baby Mama",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/baby-mama/275765355?i=275765431&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/baby-mama/275765355?i=275765431&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/48/1b/a3/mzm.tbxcsnnd.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 6,
+      "trackTimeMillis": 255787,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 720617598,
+      "trackId": 720617626,
+      "artistName": "Fantasia",
+      "collectionName":
+        "The Best Man Holiday (Original Motion Picture Soundtrack)",
+      "trackName": "What Christmas Means to Me",
+      "collectionCensoredName":
+        "The Best Man Holiday (Original Motion Picture Soundtrack)",
+      "trackCensoredName": "What Christmas Means to Me",
+      "collectionArtistId": 80204262,
+      "collectionArtistName": "Various Artists",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/what-christmas-means-to-me/720617598?i=720617626&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/what-christmas-means-to-me/720617598?i=720617626&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/ca/df/f1/cadff1f3-a36f-24ef-4559-4362f7ae3061/mzaf_8823318084912736284.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/81/f4/87/81f48725-4341-20d4-34b3-f9b317c3eaf6/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/81/f4/87/81f48725-4341-20d4-34b3-f9b317c3eaf6/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/81/f4/87/81f48725-4341-20d4-34b3-f9b317c3eaf6/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-10-25T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 3,
+      "trackTimeMillis": 144458,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Soundtrack",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631420,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Teach Me",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Teach Me",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/teach-me/382631365?i=382631420&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/teach-me/382631365?i=382631420&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/17/c3/d8/mzm.kgkvnfct.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 6,
+      "trackTimeMillis": 252514,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765419,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Summertime",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Summertime",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/summertime/275765355?i=275765419&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/summertime/275765355?i=275765419&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fb/0d/d4/mzm.hlcjnzzl.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 5,
+      "trackTimeMillis": 166613,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685421,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Girl Talk (Interlude)",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Girl Talk (Interlude)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/girl-talk-interlude/615685399?i=615685421&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/girl-talk-interlude/615685399?i=615685421&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/60/e7/71/60e771b2-e258-b898-e6e1-75dc309410d7/mzaf_3656182307413992869.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 4,
+      "trackTimeMillis": 107954,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685512,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "So Much to Prove",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "So Much to Prove",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/so-much-to-prove/615685399?i=615685512&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/so-much-to-prove/615685399?i=615685512&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/fc/a1/a9/fca1a957-75df-a6f8-7295-f6b46e0b823d/mzaf_306335153039121860.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 8,
+      "trackTimeMillis": 148098,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631430,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Trust Him",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Trust Him",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/trust-him/382631365?i=382631430&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/trust-him/382631365?i=382631430&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/39/35/ff/mzm.ubzensuu.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-07-27T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 8,
+      "trackTimeMillis": 191429,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739617,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "When I Met You",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "When I Met You",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/when-i-met-you/1105739288?i=1105739617&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/when-i-met-you/1105739288?i=1105739617&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/6a/1a/ac/6a1aac70-fdf8-f10e-67d5-4e5ff8662714/mzaf_169946618224312797.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 4,
+      "trackTimeMillis": 273466,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739775,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "Ugly",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "Ugly",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/ugly/1105739288?i=1105739775&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/ugly/1105739288?i=1105739775&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/f5/d9/32/f5d93285-4721-0354-24b5-1fac8c6f5369/mzaf_9039372386031333642.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-04-07T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 7,
+      "trackTimeMillis": 197840,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631400,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "Who's Been Lovin' You",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "Who's Been Lovin' You",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/whos-been-lovin-you/382631365?i=382631400&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/whos-been-lovin-you/382631365?i=382631400&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ee/20/5b/mzm.goebsvlq.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 4,
+      "trackTimeMillis": 218614,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631521,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "The Worst Part Is Over",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "The Worst Part Is Over",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/the-worst-part-is-over/382631365?i=382631521&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/the-worst-part-is-over/382631365?i=382631521&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/67/3b/26/mzm.vsdpktdx.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": -1.0,
+      "releaseDate": "2010-07-27T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 13,
+      "trackTimeMillis": 194899,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 615685399,
+      "trackId": 615685411,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Supernatural Love (feat. Big K.R.I.T.)",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Supernatural Love (feat. Big K.R.I.T.)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/supernatural-love-feat-big-k-r-i-t/615685399?i=615685411&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/supernatural-love-feat-big-k-r-i-t/615685399?i=615685411&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/78/71/ef/7871ef7c-e1b8-e095-ee23-3a640cce7719/mzaf_8547023751374046754.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/fd/51/84/fd51840c-883e-7da2-3d88-112290ba5ae9/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-04-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 1,
+      "trackTimeMillis": 228945,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 382631365,
+      "trackId": 382631437,
+      "artistName": "Fantasia",
+      "collectionName": "Back to Me",
+      "trackName": "The Thrill Is Gone",
+      "collectionCensoredName": "Back to Me",
+      "trackCensoredName": "The Thrill Is Gone (feat. Cee-Lo Green)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/the-thrill-is-gone-feat-cee-lo-green/382631365?i=382631437&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/the-thrill-is-gone-feat-cee-lo-green/382631365?i=382631437&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/72/df/be/mzm.gdvotefg.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/43/5b/54/435b5443-2f18-cf33-8029-76eac1403960/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2010-08-24T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 9,
+      "trackTimeMillis": 218736,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739778,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "Lonely Legend",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "Lonely Legend",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/lonely-legend/1105739288?i=1105739778&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/lonely-legend/1105739288?i=1105739778&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/e7/3e/85/e73e8543-ec3a-0258-7572-aef85c349c85/mzaf_6544037965466940933.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 10,
+      "trackTimeMillis": 230336,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 616727817,
+      "trackId": 616727823,
+      "artistName": "Fantasia",
+      "collectionName": "Side Effects of You",
+      "trackName": "Without Me (feat. Kelly Rowland & Missy Elliott)",
+      "collectionCensoredName": "Side Effects of You",
+      "trackCensoredName": "Without Me (feat. Kelly Rowland & Missy Elliott)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/without-me-feat-kelly-rowland-missy-elliott/616727817?i=616727823&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/without-me-feat-kelly-rowland-missy-elliott/616727817?i=616727823&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/b6/1d/6b/b61d6b2f-13dc-188b-b8ad-d0df9a12885f/mzaf_3386122970915654512.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music2/v4/91/72/22/91722207-73cc-7151-d572-4fc92ae2a41a/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music2/v4/91/72/22/91722207-73cc-7151-d572-4fc92ae2a41a/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is4-ssl.mzstatic.com/image/thumb/Music2/v4/91/72/22/91722207-73cc-7151-d572-4fc92ae2a41a/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2013-02-04T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 5,
+      "trackTimeMillis": 270787,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 275765355,
+      "trackId": 275765483,
+      "artistName": "Fantasia",
+      "collectionName": "Free Yourself",
+      "trackName": "Don't Act Right (feat. Jazze Pha)",
+      "collectionCensoredName": "Free Yourself",
+      "trackCensoredName": "Don't Act Right (feat. Jazze Pha)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/dont-act-right-feat-jazze-pha/275765355?i=275765483&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/dont-act-right-feat-jazze-pha/275765355?i=275765483&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a3/bf/10/mzm.ncjjzbip.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/5e/a8/fc/5ea8fcd2-4a8f-56fb-1c4a-feae28be35c5/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2004-11-23T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 11,
+      "trackTimeMillis": 243987,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 207246267,
+      "trackId": 207246276,
+      "artistName": "Fantasia featuring Big Boi",
+      "collectionName": "Fantasia",
+      "trackName": "Hood Boy (feat. Big Boi)",
+      "collectionCensoredName": "Fantasia",
+      "trackCensoredName": "Hood Boy (feat. Big Boi) [Radio Edit]",
+      "collectionArtistName": "Fantasia",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/hood-boy-feat-big-boi-radio-edit/207246267?i=207246276&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/hood-boy-feat-big-boi-radio-edit/207246267?i=207246276&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b9/12/cc/mzm.ylhoeunu.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f0/39/04/f039046b-77be-7ef6-9a9e-0887acbf62ad/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f0/39/04/f039046b-77be-7ef6-9a9e-0887acbf62ad/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f0/39/04/f039046b-77be-7ef6-9a9e-0887acbf62ad/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2006-11-25T08:00:00Z",
+      "collectionExplicitness": "cleaned",
+      "trackExplicitness": "cleaned",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 1,
+      "trackTimeMillis": 214427,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "contentAdvisoryRating": "Clean",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739604,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "Crazy",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "Crazy",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/crazy/1105739288?i=1105739604&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/crazy/1105739288?i=1105739604&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/71/5c/85/715c85bd-7472-3717-de77-5f6af94a2f4e/mzaf_5061254216032719736.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 1,
+      "trackTimeMillis": 289699,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739613,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "So Blue",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "So Blue",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/so-blue/1105739288?i=1105739613&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/so-blue/1105739288?i=1105739613&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/33/c3/4f/33c34fc7-082f-943d-2386-41ef372a08de/mzaf_5008663469265385644.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 3,
+      "trackTimeMillis": 263181,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739776,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "Wait For You",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "Wait For You",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/wait-for-you/1105739288?i=1105739776&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/wait-for-you/1105739288?i=1105739776&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/f8/90/e9/f890e951-d479-34c0-b447-72923eb6829f/mzaf_6355425052780309044.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 8,
+      "trackTimeMillis": 309355,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 15773735,
+      "collectionId": 1105739288,
+      "trackId": 1105739772,
+      "artistName": "Fantasia",
+      "collectionName": "The Definition Of...",
+      "trackName": "Stay Up (feat. Stacy Barthe)",
+      "collectionCensoredName": "The Definition Of...",
+      "trackCensoredName": "Stay Up (feat. Stacy Barthe)",
+      "artistViewUrl":
+        "https://itunes.apple.com/us/artist/fantasia/15773735?uo=4",
+      "collectionViewUrl":
+        "https://itunes.apple.com/us/album/stay-up-feat-stacy-barthe/1105739288?i=1105739772&uo=4",
+      "trackViewUrl":
+        "https://itunes.apple.com/us/album/stay-up-feat-stacy-barthe/1105739288?i=1105739772&uo=4",
+      "previewUrl":
+        "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/76/f7/8b/76f78b70-fbf7-80a7-73c0-6cf5c881ff00/mzaf_7115776749760664898.plus.aac.p.m4a",
+      "artworkUrl30":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/30x30bb.jpg",
+      "artworkUrl60":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/60x60bb.jpg",
+      "artworkUrl100":
+        "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/6e/e6/c5/6ee6c5e5-b8fe-b8a8-f731-5b3291cf6baa/source/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-07-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 6,
+      "trackTimeMillis": 217066,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    }
+  ]
+}

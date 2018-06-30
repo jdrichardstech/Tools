@@ -1,0 +1,27 @@
+modules are units of functionality for example creating a 
+bunch of functions that are bundled up to use later
+we use require to load in modules to our files for use
+
+
+
+http module: lets us make a web server
+fs: module lets us touch files
+OS: you can get .userinfo from this module
+
+Node has a lot of built in modules
+node.js.org/api shows a list of built in modules
+
+
+require is a function that is available to you in all of your node files
+
+
+-----------
+
+inside of all node files we have access to a variable called module.
+The only thing we mostly use is .exports which is an empty object;
+we can store functions etc inside this object and it will run
+
+real purpose of exports is to export helper functions
+
+
+using fat arrow function may sometimes lead to errors. if so change to traditional funciton syntax

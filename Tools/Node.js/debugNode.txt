@@ -1,0 +1,17 @@
+in Browser 
+add debugger in code 
+then in terminal type:
+node --inspect-brk then path for file
+
+
+for terminal
+add debugger in code
+then type in terminal
+node --inspect then path for file
+
+
+n iterates line by line
+c will continue until next breakpoint or until program endes
+
+
+list(num) will shwo num lines before and num lines after the line in code
