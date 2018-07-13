@@ -1,0 +1,55 @@
+{
+  "wrapperType": "collection",
+  "collectionType": "Album",
+  "artistId": 1352449404,
+  "collectionId": 1081201685,
+  "amgArtistId": 195154,
+  "artistName": "JAY-Z & Kanye West",
+  "collectionName": "Watch the Throne",
+  "collectionCensoredName": "Watch the Throne",
+  "artistViewUrl":
+    "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+  "collectionViewUrl":
+    "https://itunes.apple.com/us/album/watch-the-throne/1081201685?uo=4",
+  "artworkUrl60":
+    "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/37/6a/2e/376a2e2a-d4fc-887a-0a18-b323dcd3a4a8/source/60x60bb.jpg",
+  "artworkUrl100":
+    "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/37/6a/2e/376a2e2a-d4fc-887a-0a18-b323dcd3a4a8/source/100x100bb.jpg",
+  "collectionPrice": 9.99,
+  "collectionExplicitness": "explicit",
+  "contentAdvisoryRating": "Explicit",
+  "trackCount": 13,
+  "copyright":
+    "℗ 2011 S. Carter Enterprises, LLC. Distributed by Roc Nation",
+  "country": "USA",
+  "currency": "USD",
+  "releaseDate": "2011-08-12T07:00:00Z",
+  "primaryGenreName": "Hip-Hop/Rap"
+},
+{
+  "wrapperType": "collection",
+  "collectionType": "Album",
+  "artistId": 1352449404,
+  "collectionId": 455394570,
+  "amgArtistId": 195154,
+  "artistName": "JAY-Z & Kanye West",
+  "collectionName": "Watch the Throne",
+  "collectionCensoredName": "Watch the Throne",
+  "artistViewUrl":
+    "https://itunes.apple.com/us/artist/jay-z/1352449404?uo=4",
+  "collectionViewUrl":
+    "https://itunes.apple.com/us/album/watch-the-throne/455394570?uo=4",
+  "artworkUrl60":
+    "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/46/de/7e/46de7ec3-028f-c01e-883c-90c3da52f40d/source/60x60bb.jpg",
+  "artworkUrl100":
+    "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/46/de/7e/46de7ec3-028f-c01e-883c-90c3da52f40d/source/100x100bb.jpg",
+  "collectionPrice": 9.99,
+  "collectionExplicitness": "cleaned",
+  "contentAdvisoryRating": "Clean",
+  "trackCount": 12,
+  "copyright": "℗ 2011 Roc-A-Fella Records, LLC/Shawn Carter",
+  "country": "USA",
+  "currency": "USD",
+  "releaseDate": "2011-01-01T08:00:00Z",
+  "primaryGenreName": "Hip-Hop/Rap"
+},

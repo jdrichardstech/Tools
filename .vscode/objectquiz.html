@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title> Quiz Template </title>
+</head>
+
+<body>
+  <form name="quiz">
+    <h1> Quiz </h1>
+
+    Please make your choice:
+    <br>
+
+    <input type="radio" name="question1" value="0" onclick="sec(this)">Q1
+    <br>
+    <input type="radio" name="question2" value="1" onclick="sec(this)">Q2
+    <br>
+    <input type="radio" name="question3" value="2" onclick="sec(this)">Q3
+    <br>
+    <input type="radio" name="question4" value="3" onclick="sec(this)">Q4
+    <br>
+    <input type="radio" name="question5" value="4" onclick="sec(this)">Q5
+    <br>
+
+    <input type="button" value="seçilenleri göster" onclick="sorular(v)">
+    <br>
+    <br>
+    <input type="button" value="rastgele soruver" onclick="sorular(rastgeleSec(5,3))">
+    <br>
+    <br>
+  </form>
+  <div id="sor"></div>
+
+  <script type="text/javascript">
+
+    var say = 0, v = [], n = [];
+    function sec(bu) {
+      if (say == 3) { bu.checked = false; return; }
+
+      v[say] = bu.value;
+      n[say] = bu.name;
+      say++;
+      //alert(v+ "     " + n);
+    };
+
+    function sorular(v) {
+
+      var Q1 = { question: "What is one of the keyboard shortcuts for copy?", a1: "Ctrl + C", a2: "Ctrl + V", a3: "Shift + C", answer: 1 };
+
+      var Q2 = {
+        question: "What element of the browser enables you to get additional features?",
+        a1: "Browser Addons", a2: "More Features", a3: "Browser Extensions", answer: 3
+      };
+
+      var Q3 = { question: "What is one of the keyboard shortcuts for paste?", a1: "Ctrl + P", a2: "Ctrl + V", a3: "Shift + V", answer: 2 };
+
+      var Q4 = { question: "What's the quickest way to find specific text on this page?", a1: "Look for it", a2: "Ctrl + F", a3: "Ctrl + L", answer: 2 };
+
+      var Q5 = { question: "What computer component is featured on the front page?", a1: "Motherboard", a2: "Graphics Card", a3: "Hard Drive", answer: 1 };
+
+      //Create array to store Objects (Questions and Answers)
+      var quiz = [Q1, Q2, Q3, Q4, Q5];
+
+
+      // seçilen sorular&#305; yazd&#305;r
+      var el = document.getElementById('sor');
+
+      var metin = "", n, say, c1, c2, c3, cevap;
+      for (i = 0; i < v.length; i++) {
+        n = quiz[v[i]];
+        c1 = n.a1;
+        c2 = n.a2;
+        c3 = n.a3;
+        cevap = n.answer;
+        // alert("cevap= "+cevap);
+        metin += "<h2 style='color:blue'>" + (n.question) + "</h2>";
+        metin += "<p><input type='radio' name='soru_" + i + "' value='1' onclick='degerlendir(this," + cevap + ")'>" + c1 + "</p>";
+        metin += "<p><input type='radio' name='soru_" + i + "' value='2' onclick='degerlendir(this," + cevap + ")'>" + c2 + "</p>";
+        metin += "<p><input type='radio' name='soru_" + i + "' value='3' onclick='degerlendir(this," + cevap + ")'>" + c3 + "</p>";
+      }
+      el.innerHTML = metin;
+    }
+
+    function degerlendir(bu, c) { // alert(bu.value  +"     "+c);
+      if (Number(bu.value) == c) { bu.parentNode.style.color = "lime"; }
+      if (Number(bu.value) != c) { bu.parentNode.style.color = "red"; }
+    }
+
+    // seçimi yapan bir fonksiyon yaz
+    function rastgeleSec(kacTaneden, kacTanesi) {
+
+      var dizi = [], secilen = [], r, i;
+      // elemanlar&#305; farkl&#305; olan bir diziye ihtiyaç var.
+      for (i = 0; i < kacTaneden; i++) { dizi[dizi.length] = i; }
+      //alert(dizi);
+      //rastgele say&#305;ya ihtiyaç var.
+      for (i = 0; i < kacTanesi; i++) {
+        r = Math.floor(Math.random() * dizi.length);
+        //alert("r= "+r);
+        secilen[i] = dizi[r];
+        // http://www.w3schools.com/jsref/jsref_splice.asp
+        dizi.splice(r, 1); // diziden r s&#305;ras&#305;ndaki eleman&#305; att&#305;k. Ayn&#305; say&#305; ikinci kez rastgele seçilse bile dizide ba&#351;ka bir elemana denk gelecek.
+      }
+      //alert(secilen);
+      return secilen;
+    }
+
+  </script>
+</body>
+
+</html>

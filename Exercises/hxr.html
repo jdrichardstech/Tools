@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <!-- Check the console for results -->
+  <script>
+    const xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function (data) {
+      if (xhr.readyState == 4 && xhr.status == 200) {
+        // console.log(JSON.parse(this.response['abilities']));
+        let obj = JSON.parse(this.response)
+        console.log(obj)
+        console.log(obj.forms[0])
+      }
+    }
+    xhr.open('GET', 'https://pokeapi.co/api/v2/pokemon/1', true);
+    xhr.send();
+
+
+  </script>
+</body>
+
+</html>

@@ -1,10 +1,12 @@
+List of free apis: https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication/
+
 Random dog images : https://dog.ceo/dog-api/
 
 Random quotes: https://api.github.com/zen
 
 Bitcoing Current price API: https://api.coindesk.com/v1/bpi/currentprice.json
 
-Ramdom User API: https://randomuser.me.api
+Ramdom User API: https://randomuser.me/api
 
 Random cats: http://aws.random.cat/meow
 
@@ -15,3 +17,11 @@ JSON Placeholders: https://jsonplaceholder.typicode.com/
 Lorem Picsum https://picsum.photos/
 
 Bacon Ipsum: https://baconipsum.com/json-api/
+
+Star Wars :  https://swapi.co/
+
+Pokemon: https://pokeapi.co/
+
+Google simple location: https://maps.googleapis.com/maps/api/geocode/json?address=Oxford%20University,%20uk&sensor=false
+
+

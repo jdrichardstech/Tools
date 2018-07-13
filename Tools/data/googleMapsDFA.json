@@ -1,0 +1,82 @@
+// 20180629173841
+// https://maps.googleapis.com/maps/api/geocode/json?address=630%209th%20Ave%20new%20york%20new%20york
+
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "630",
+          "short_name": "630",
+          "types": ["street_number"]
+        },
+        {
+          "long_name": "9th Avenue",
+          "short_name": "9th Ave",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "630 9th Ave, New York, NY 10036, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7602208,
+            "lng": -73.9908302
+          },
+          "southwest": {
+            "lat": 40.7596107,
+            "lng": -73.99146809999999
+          }
+        },
+        "location": {
+          "lat": 40.759987,
+          "lng": -73.9912338
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7612647302915,
+            "lng": -73.9898001697085
+          },
+          "southwest": {
+            "lat": 40.7585667697085,
+            "lng": -73.99249813029151
+          }
+        }
+      },
+      "place_id": "ChIJZyYpyFNYwokR12wv0c8vZoc",
+      "types": ["premise"]
+    }
+  ],
+  "status": "OK"
+}
