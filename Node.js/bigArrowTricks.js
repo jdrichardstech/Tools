@@ -1,6 +1,6 @@
 /**
  * big arrow functions do not automaticallly bind a 'this' keyword
- * it reverts to the wineow when called within the object
+ * it reverts to the window when called within the object
  * so when defining a function in object literals, in order to bind the this use: functionName () {}
  * no colon nor any use of the word function although it is a regular function
  *
