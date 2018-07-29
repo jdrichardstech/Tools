@@ -1,0 +1,105 @@
+arn:aws:lambda:us-east-1:841813004432:function:module-sfn-workshop-setup-ExtractMetadata
+
+
+{
+  "StartAt": "ExtractImageMetadata",
+  "Comment": "Image Processing State Machine",
+  "States": {
+    "ExtractImageMetadata": {
+      "Type": "Task",
+      "Resource": arn:aws:lambda:us-east-1:841813004432:function:module-sfn-workshop-setup-ExtractMetadata,
+      "End": true
+    }
+  }
+}
+
+{
+  "s3Bucket": "FILL_IN_YOUR_VALUE",
+  "s3Key": "tests/1_cactus.jpg"
+}
+
+
+{
+  "StartAt": "ExtractImageMetadata",
+  "Comment": "Image Processing State Machine",
+  "States": {
+    "ExtractImageMetadata": {
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:933258800391:function:module-sfn-workshop-setup-ExtractMetadata",
+      "End": true
+    }
+  }
+}
+
+
+https://signin.aws.amazon.com/federation?Action=login&Issuer=localhost&Destination=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fregion%3Dus-east-1&SigninToken=BTnris2mnwPPC5iRUhggteZKRxd0zAQlcgLPiXV4QvMfsLVCb_9P-OiXWtgYrS2uUHGNZu9_UZL3E0R0PxsmvXADhvyUjEhPGC0oT0GD9PH8uytcaJ2FiPOggvV5-aP1_xPP7gGpMBfrt1pmztlzxjkMWCfA9ncM3efl7jmB27ZMumadbAnR_bltFakM-dB_KYDlVnIbORZ2cCdqbHZWpe4D-tbl1recxxt48fEH-O6aTdwzMvglIT876BgMiiIbAnXSjYGger4UfIVp58fYPqZUsd-_KAaEctBvGNoRPT_VcZaDYtp0z2gBhX2hSstu-XNvMNFaFF4MldydlfJupOA6dj5hDSZtZsSj4HOYob1adG1UKK9TUihgzvKIa9AMaWl-nVkjrE_1MsT3ADRlzxXzArmA8nO-VPSwjvavnBLVcU8UhpqCU6uqlUEzYvDO8I0N5BbnshCJZC5fknOXuHqbbcJrw05J6mjfoWsasPwzF2M0kZA-tSGdh6fT9RZYKcObsCY6fdncz7buvejaNOmPJhrLmHUkM-mrWem_2oXog6MyG5L1hZjflxqexhD_P8lH4H5VQkdoq7QkkbXcKOdBPSifuNcXbLFqj86xVATB1jNje2XEpUSYsrHaxW2fZJyxIfl7gY1xnSZP0Wel0LZ57QXXzEFbzSkOOWgYlis6nUcxXXt9P3bsDQxUTSr1N5KengaquH6dvp-RNECJAPTZwGgeo0d88Kgf1iaLTXwJqAT8Sbikh1ALRLpqpPK_dSDHMEOkXMXN8Y4G_SjcH517GQ25sgtMsmieyoMkcfype1h6ynHiXdkMEOrQE2ezQ_C0u5xBlGiFAzBDI-MYuRSp
+
+
+export AWS_ACCESS_KEY_ID=ASIAJWQDWE7U5UN6Q3EQ
+export AWS_SECRET_ACCESS_KEY=zy9pF460EoX7i5j7PYKtqx1bx1IMzRNecQwbCKSv
+export AWS_SESSION_TOKEN=FQoDYXdzEMX//////////wEaDIAgG2QTaDyvo3WlJCLtAam57vQFmXOwG0rj+ctKT8Ev/im/RrqfT3GzEU30BaoYDwXYtIPENr2dLHrG9bh897/s0tlBaL7TCtuko/qlmP687ovdkIBYeD48pvZU/nyAYcO5G0/hvdOjF4p/BjhwjU50kUsox/D1hNiFeF0EjLctFfyVJjuXd+s3N8UIC+oNp0iTFVYHAgaQP0RH7vO+pksyqCjxQw0kXYFA6rjq4DPb7qC/28ExVrX8oCkX8afDqGpyP22L7gmbi5jdzV5pvqcD6mVHBjDry8VeqnRDpuiBAtnA2g/lJOySsBrHqfKjVs20xJizUN1svGT9tyi4irnaBQ==
+export AWS_DEFAULT_REGION=us-east-1
+
+
+
+
+module-sfn-workshop-setup-photorepos3bucket-jdx8b8fe06ll
+
+
+{
+  "s3Bucket": "module-sfn-workshop-setup-photorepos3bucket-jdx8b8fe06ll
+  ",
+  "s3Key": "tests/1_cactus.jpg"
+}
+
+"ResultPath": "$.extractedMetadata"
+
+STATE MACHINE DEFINITION
+
+{
+  "StartAt": "ExtractImageMetadata",
+  "Comment": "Image Processing State Machine",
+  "States": {
+    "ExtractImageMetadata": {
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:933258800391:function:module-sfn-workshop-setup-ExtractMetadata",
+      "Catch": [{
+        "ErrorEquals": [
+          "ImageIdentifyError"
+        ],
+        "ResultPath": "$.error",
+        "Next": "NotSupportedImageType"
+      }],
+      "ResultPath": "$.extractedMetadata",
+      "Next":"ImageTypeCheck"
+    },
+    "NotSupportedImageType": {
+      "Type": "Fail",
+      "Cause": "Image type not supported!",
+      "Error": "FileTypeNotSupported"
+    },
+    "ImageTypeCheck": {
+      "Type": "Choice",
+      "Choices": [{
+        "Or": [{
+            "Variable": "$.extractedMetadata.format",
+            "StringEquals": "JPEG"
+          },
+          {
+            "Variable": "$.extractedMetadata.format",
+            "StringEquals": "PNG"
+          }
+        ],
+        "Next": "Parallel"
+      }],
+      "Default": "NotSupportedImageType"
+  },
+  "Parallel": {
+    "Type": "Pass",
+    "Result": {
+      "message": "This is a placeholder we will replace it with a Parallel state soon"
+    },
+    "End": true
+  }
+  }
+}

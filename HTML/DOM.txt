@@ -1,0 +1,2 @@
+The DOM (Document Object Model)
+is a javascript object which represent HTML

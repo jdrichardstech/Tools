@@ -1,0 +1,8 @@
+/**
+ * 
+ * 
+ * 
+ * Arrow functions are anonymous
+ * They therefore don't create own this this and referes to the parent object
+ usually the class App extends Component{} blah blah
+ */
