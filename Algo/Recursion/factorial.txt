@@ -1,0 +1,65 @@
+
+
+Have you ever seen a set of Russian dolls? At first, 
+you see just one figurine, usually painted wood.
+You can remove the top half of the first doll, and what do you see inside? 
+Another, slightly smaller, Russian doll!
+You can remove that doll and separate its top and bottom halves. 
+And you see yet another, even smaller, doll:
+And once more:
+And you can keep going. Eventually you find the teeniest Russian doll. 
+It is just one piece, and so it does not open:
+We started with one big Russian doll, 
+and we saw smaller and smaller Russian dolls, 
+until we saw one that was so small that it could not contain another.
+
+What do Russian dolls have to do with algorithms? 
+Just as one Russian doll has within it a smaller Russian doll, 
+which has an even smaller Russian doll within it, all the way down to a tiny Russian 
+doll that is too small to contain another, 
+we'll see how to design an algorithm to solve a problem by solving a 
+smaller instance of the same problem, unless the problem is so small that we can 
+just solve it directly. 
+We call this technique recursion.
+
+We can distill the idea of recursion into two simple rules:
+
+1. Each recursive call should be on a smaller instance of the same problem, 
+   that is, a smaller subproblem.
+2. The recursive calls must eventually reach a base case, 
+   which is solved without further recursion.
+
+
+
+Non recursive
+//prompt user to enter a number to calculate the factorial
+var num = prompt(&quot;What number do you want to find the factorial of?&quot;)
+ 
+var factorial = function(n) {
+    if(n == 0) {
+        return 1
+    } else {
+        product = 1;
+        for(i = 1; i &lt;= n; i++) {
+            product *= i;
+        }
+        return product;
+    }
+}
+ 
+console.log(factorial(num));
+
+//prompt user to enter a number to calculate the factorial
+var num = prompt(&quot;What number do you want to find the factorial of?&quot;)
+ 
+//recursive
+var factorial = function(n) {
+    if(n == 0) {
+        return 1
+    } else {
+        return n * factorial(n - 1);
+    }
+}
+ 
+console.log(factorial(num));
+

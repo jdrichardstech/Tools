@@ -1,0 +1,1 @@
+http://blog.benoitvallon.com/sorting-algorithms-in-javascript/the-selection-sort-algorithm/
