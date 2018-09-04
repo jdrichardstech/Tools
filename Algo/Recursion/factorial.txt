@@ -40,7 +40,7 @@ var factorial = function(n) {
         return 1
     } else {
         product = 1;
-        for(i = 1; i &lt;= n; i++) {
+        for(i = 1; i <= n; i++) {
             product *= i;
         }
         return product;

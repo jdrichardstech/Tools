@@ -1,0 +1,25 @@
+Imports:
+react-redux
+redux
+
+
+
+Create:
+reducer folder
+index.js inside reducer folder
+actions folder
+(constants file?)
+
+
+
+
+in reducers/index.js file:
+import {combineReducers} from 'redux'
+
+export default combineReducers({
+  
+})
+
+
+
+

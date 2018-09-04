@@ -6,7 +6,7 @@
 //     category: "Entertainment: Video Games"
 //   }
 // };
-var url = "https://opentdb.com/api.php?amount=3";
+var url = 'https://opentdb.com/api.php?amount=3';
 
 axios
   .get(url)
@@ -17,23 +17,23 @@ axios
   .then(data => {
     let dataArr = Object.entries(data);
     console.log(data);
-    let newP = document.createElement("p");
+    let newP = document.createElement('p');
     newP.innerHTML =
-      "Question: " +
+      'Question: ' +
       data.question +
-      "<br />" +
-      "Answer: " +
+      '<br />' +
+      'Answer: ' +
       data.correct_answer;
-    return document.querySelector("#app").appendChild(newP);
+    return document.querySelector('#app').appendChild(newP);
   })
   .catch(handleErrors);
 
 function handleErrors(err) {
   if (err.response) {
-    console.log("Problem with response: ", err.response.status);
+    console.log('Problem with response: ', err.response.status);
   } else if (err.request) {
-    console.log("Problem with request");
+    console.log('Problem with request');
   } else {
-    console.log("Error: ", err.message);
+    console.log('Error: ', err.message);
   }
 }

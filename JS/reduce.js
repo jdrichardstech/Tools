@@ -18,19 +18,19 @@ console.log(newArr);
 //else add the value as the key and set it equal to 1 as the value
 // return the accumulator
 
-// const arr = [5, 3, 2, 5, 6];
+const arr = [5, 3, 2, 5, 6];
 
-// let newObj = arr.reduce(function(accum, elem) {
-//   if (elem in accum) {
-//     accum[elem]++;
-//   } else {
-//     accum[elem] = 1;
-//   }
+let newObj = arr.reduce(function(accum, elem) {
+  if (elem in accum) {
+    accum[elem]++;
+  } else {
+    accum[elem] = 1;
+  }
 
-//   return accum;
-// }, {});
+  return accum;
+}, {});
 
-// console.log(Object.keys(newObj));
+console.log(Object.keys(newObj));
 
 ///can also be used with strings
 

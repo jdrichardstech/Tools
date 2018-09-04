@@ -14,7 +14,24 @@
   <div id="app"></div>
 
 
-  <script src="Tools/callback.js"></script>
+  <!-- <script src="Tools/callback.js"></script> -->
+  <script>
+
+    var person = {
+      firstName: 'JD',
+      determineContext: 'this',
+      myFunc: function () {
+        console.log(this.firstName)
+      }
+    }
+
+
+
+    console.log(person.firstName)
+    console.log(person.determineContext) /// window
+    console.log(person.myFunc())
+
+  </script>
 </body>
 
 </html>
