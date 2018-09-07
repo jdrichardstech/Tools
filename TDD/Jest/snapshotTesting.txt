@@ -1,0 +1,27 @@
+Snapshot is a JSON based record of a components output
+This can later be compared to a current snapshot. If they are
+identical the test passes if not test fails and there are decisions to be made:
+
+1. Update to the current snapshot
+2. Fix bugs so that snapshot matches
+
+Example:
+
+npm i -s react-test-renderer
+
+import React from 'react';
+import TagsList from './TagsList';
+import renderer from 'react-test-renderer';
+
+describe('the tags list', () => {
+it('renders as expected', () => {
+const tree = renderer
+.create(<TagsList tags={['css', 'html', 'go']} />)
+.toJSON();
+
+    expect(tree).toMatchSnapshot();
+
+});
+});
+
+When you run the first snapshot test a dunder snapshot folder is created (__snapshots__) which holds a snapshot of the component
