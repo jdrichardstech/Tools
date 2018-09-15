@@ -25,3 +25,26 @@ const tree = renderer
 });
 
 When you run the first snapshot test a dunder snapshot folder is created (__snapshots__) which holds a snapshot of the component
+
+
+Snapshots can be updated.
+
+
+Advantages
+1. fast and automatic
+2. catches regression really well
+
+
+Disadvantage
+1. Snapshots only detect regression
+
+
+UPDATING SNAPSHOTS after changes are made:
+
+--update flag
+
+jest (snapshot name) -u (or --update)
+*** should ONLY be used after you have confirmed that the changes that you have 
+are not regressions but are intended changes.
+
+old snapshots replaced by new snapshot
