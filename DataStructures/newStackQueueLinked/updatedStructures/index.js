@@ -47,7 +47,7 @@ class Queue {
   }
 }
 
-//Linked List
+//Doubly Linked List
 class LLNode {
   constructor(value, next, prev) {
     this.value = value;
