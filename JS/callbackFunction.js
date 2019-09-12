@@ -34,7 +34,7 @@
 
 // INSTEAD WE MOST OFTEN USE ANONYMOUS FUNCTIONS
 
-// function greet(name, fn) {
+// function greet(name, anfn) {
 //   return console.log("Hello " + name + "!");
 // }
 // greet("Bob", function(name) {
