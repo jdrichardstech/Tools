@@ -16,23 +16,21 @@
 // ​
 // ​
 // */
+function trunc(str, num) {
+  let newString = str.substring(0, num);
+  let finalString = '';
+  if (str[num] === ' ') {
+    finalString += newString;
+    //  console.log('yes')
+  } else {
+    //  console.log('no')
+    let index = newString.lastIndexOf(' ');
+    finalString += newString.substring(0, index);
+  }
+  console.log(finalString);
 
-function trunc(str,num){
-  let newString=str.substring(0,num)
-  let finalString = ''
-  if(str[num]=== ' '){
-   finalString+=newString
-  //  console.log('yes')
-  }else{
-  //  console.log('no')
-    let index = newString.indexOf(' ');
-   finalString += newString.substring(0, index)
-}
-  console.log(finalString)
-  
   return finalString;
-   
 }
 
-let word = "Lorem ipsum dolor sit amet."
-trunc("Lorem ipsum dolor sit amet.", 17)
+let word = 'Lorem ipsum dolor sit amet.';
+trunc('Lorem ipsum dolor sit amet.', 17);

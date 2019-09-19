@@ -23,5 +23,12 @@ let words = ['spray', 'limit', 'elite', 'exuberant', 'distruction', 'present'];
 const result = words.filter(word => {
   word.length > 6;
 });
-
 console.log('result', result);
+
+function checkAdult(age) {
+  return age >= 18;
+}
+
+function myFunction() {
+  console.log('Adults: ', ages.filter(checkAdult));
+}

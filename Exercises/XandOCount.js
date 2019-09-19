@@ -23,7 +23,5 @@ function XO(str) {
       oCount++;
     }
   }
-  xCount == oCount ? (b = true) : (b = false);
+  return xCount == oCount ? true : false;
 }
-
-XO('ooxxooxx');

@@ -1,17 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-</head>
-<body>
-  <div id='root'></div>
-  
-  <script src="includes.js"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="root"></div>
 
+    <script>
+      function XO(str) {
+        //code here
+        let xCount = 0;
+        let oCount = 0;
 
-</body>
+        str = str.toLowerCase();
+        for (let i = 0; i < str.length; i++) {
+          if (str[i] == 'x') {
+            xCount++;
+          }
+          if (str[i] == 'o') {
+            oCount++;
+          }
+        }
+        console.log(xCount == oCount ? true : false);
+      }
 
+      XO('ooxxooxx');
+    </script>
+  </body>
 </html>
