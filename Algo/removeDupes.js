@@ -29,3 +29,12 @@ function removeDupes(str) {
     const uniqueCharacters = new Set(str);
     return Array.from(uniqueCharacters).join('');
 }
+
+//better
+const arr = [2,3,44,5,6, 2 , 3, 9, 3]
+
+console.log(Math.max.apply(0,arr))
+Math.max(...arr)
+
+let newArr = ([...new Set([...arr])])
+console.log(newArr.sort((a,b)=>a-b))
