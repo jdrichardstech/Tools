@@ -1,5 +1,5 @@
 // Callback function is a function that is passed into another function as a parameter then invoked by that other function
-
+//https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
 // Higher order functions are functions that operate on other functions, either by taking them as arguments or by returning them.
 
 // Callbacks are used for:
@@ -26,17 +26,21 @@
 //     "<h1>Hello " + formatter(name) + "</h1>");
 // }
 
-// function formatName(name) {
-//   return name.toUpperCase();
-// }
+function greet(name, callback) {
+  return callback();
+}
 
-// greet("Joe", formatName);
+function formatName(name) {
+  return console.log(name.toUpperCase());
+}
+
+greet('Joe', formatName);
 
 // INSTEAD WE MOST OFTEN USE ANONYMOUS FUNCTIONS
 
 // function greet(name, anfn) {
-//   return console.log("Hello " + name + "!");
+//   return console.log('Hello ' + name + '!');
 // }
-// greet("Bob", function(name) {
+// greet('Bob', name => {
 //   return name.toUpperCase();
 // });

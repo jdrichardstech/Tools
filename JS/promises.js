@@ -1,3 +1,10 @@
+/*
+- An Object with Properties and Methods
+-Represents eventual completion ofr failure of an asynchronouse operation
+-provides a resulting value
+
+*/
+
 /**
  * Important Promise Rules
  * Promises following the spec must follow a specific set of rules:
@@ -28,13 +35,25 @@
  *  A promise is an object that represents a task that will be completed in the future
  *
  */
+let json = [
+  {
+    name: 'Joe',
+    car: 'Honda',
+    dog: 'golden retriever'
+  },
+  {
+    name: 'Peter',
+    car: 'Porsche',
+    dog: 'german shepard'
+  }
+];
 
 var p1 = new Promise(function(resolve, reject) {
-  resolve([1, 2, 3, 4]);
+  resolve(json);
 });
 
-p1.then(function(arr) {
-  arr.map((element, idx) =>
-    console.log('here is value' + idx + ': ' + element)
+p1.then(arr => {
+  arr.map(element =>
+    console.log(`${element.name} has a ${element.car} and a ${element.dog}. `)
   );
-}).catch();
+}).catch(err => console.log(err));
