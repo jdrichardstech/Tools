@@ -16,10 +16,10 @@ async function addAsync(x) {
   return a + b + c + x;
 }
 
-// doubleAfter2Seconds(3).then((r) => {
-//   console.log(r)
-// })
-
-addAsync(9).then(sum => {
-  console.log(sum);
+doubleAfter2Seconds(3).then(r => {
+  console.log(r);
 });
+
+// addAsync(9).then(sum => {
+//   console.log(sum);
+// });
